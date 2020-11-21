@@ -4,7 +4,7 @@ Console tool to add a new Blazor component with .razor file for markup and .razo
 
 Plan is to add this to the context menu in Visual Studio 2019 as a scaffolder, however, at this time I am having problems finding ways to do this. So, currently this is implemented as a .NET 5.0 console application.
 
-For more details, please visit: [https://mariomucalo.com/organizing-and-naming-components-in-blazor/](Organizing and Naming Components in Blazor) on my blog.
+For more details, please read [Organizing and Naming Components in Blazor](https://mariomucalo.com/organizing-and-naming-components-in-blazor/) on my blog.
 
 ## What does it do
 
