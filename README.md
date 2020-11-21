@@ -53,6 +53,6 @@ Type the following command.
 
 `AddNewComponentInBlazor <FileName>`
 
-**<FileName>** - The files that will get created are `<FileName>.razor` and `<FileName>.razor.cs`. The class name from which the code behind will be inherited will be `<FileName>Base`.
+The files that will get created are `<FileName>.razor` and `<FileName>.razor.cs`. The class name from which the code behind will be inherited will be `<FileName>Base`.
   
   
