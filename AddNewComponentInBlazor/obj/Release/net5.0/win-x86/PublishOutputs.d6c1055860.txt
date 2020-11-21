@@ -1,0 +1,6 @@
+E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\bin\Release\net5.0\publish\AddNewComponentInBlazor.pdb
+E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\bin\Release\net5.0\publish\clrcompression.dll
+E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\bin\Release\net5.0\publish\clrjit.dll
+E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\bin\Release\net5.0\publish\coreclr.dll
+E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\bin\Release\net5.0\publish\mscordaccore.dll
+E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\bin\Release\net5.0\publish\AddNewComponentInBlazor.exe
