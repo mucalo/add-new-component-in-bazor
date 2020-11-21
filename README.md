@@ -29,7 +29,7 @@ using Microsoft.AspNetCore.Components;
 
 namespace Namespace.Generated.Based.On.Folder.Structure
 {
-	public class PetDashboardPageBase : ComponentBase
+	public class MyComponentBase : ComponentBase
 	{
 		
 	}
