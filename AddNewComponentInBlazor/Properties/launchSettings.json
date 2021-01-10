@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "AddNewComponentInBlazor": {
-      "commandName": "Project",
-      "commandLineArgs": "TestComponent"
-    }
-  }
-}
