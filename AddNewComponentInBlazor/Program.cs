@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
+using System.Text;
 
 namespace AddNewComponentInBlazor
 {
@@ -12,10 +13,24 @@ namespace AddNewComponentInBlazor
             if (string.IsNullOrWhiteSpace(filename))
             {
                 throw new Exception("Please provde a file name!");
+            } else if (File.Exists(filename + ".razor") || File.Exists(filename + ".razor.cs") || File.Exists(filename + ".razor.css"))
+            {
+                throw new Exception("One of the three files to be generated exists. Please check the paths and filenames, if you really want to, delete the file(s) manually and try again.");
             }
 
             CreateDotRazorFile(filename);
             CreateDotRazorDotCsFile(filename, GetNamespace());
+            CreateDotRazorDotCssFile(filename);
+        }
+
+        /// <summary>
+        /// Method will create the .razor.css file automatically connected and nested under the .razor fille
+        /// </summary>
+        /// <param name="filename"></param>
+        private static void CreateDotRazorDotCssFile(string filename)
+        {
+            File.WriteAllText(filename + ".razor.css", "", Encoding.UTF8);
+
         }
 
         /// <summary>
@@ -30,7 +45,7 @@ namespace AddNewComponentInBlazor
                 "<h3>" + filename + "</h3>"
             };
 
-            File.WriteAllLines(filename + ".razor", lines);
+            File.WriteAllLines(filename + ".razor", lines, Encoding.UTF8);
         }
 
         /// <summary>
@@ -52,7 +67,7 @@ namespace AddNewComponentInBlazor
                 "}"
             };
 
-            File.WriteAllLines(filename + ".razor.cs", lines);
+            File.WriteAllLines(filename + ".razor.cs", lines, Encoding.UTF8);
         }
 
 
