@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Components;
+﻿using Microsoft.AspNetCore.Components;
 
 
 namespace AddNewComponentInBlazor.bin.Debug.net5.0

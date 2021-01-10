@@ -5,6 +5,7 @@ E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\bin\Debug\net5.0\Add
 E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\bin\Debug\net5.0\AddNewComponentInBlazor.dll
 E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\bin\Debug\net5.0\ref\AddNewComponentInBlazor.dll
 E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\bin\Debug\net5.0\AddNewComponentInBlazor.pdb
+E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\obj\Debug\net5.0\AddNewComponentInBlazor.csprojAssemblyReference.cache
 E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\obj\Debug\net5.0\AddNewComponentInBlazor.GeneratedMSBuildEditorConfig.editorconfig
 E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\obj\Debug\net5.0\AddNewComponentInBlazor.AssemblyInfoInputs.cache
 E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\obj\Debug\net5.0\AddNewComponentInBlazor.AssemblyInfo.cs
@@ -13,4 +14,3 @@ E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\obj\Debug\net5.0\Add
 E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\obj\Debug\net5.0\ref\AddNewComponentInBlazor.dll
 E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\obj\Debug\net5.0\AddNewComponentInBlazor.pdb
 E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\obj\Debug\net5.0\AddNewComponentInBlazor.genruntimeconfig.cache
-E:\Projects\AddNewComponentInBlazor\AddNewComponentInBlazor\obj\Debug\net5.0\AddNewComponentInBlazor.csprojAssemblyReference.cache
